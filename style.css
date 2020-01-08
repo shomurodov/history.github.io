@@ -22,10 +22,12 @@ ul{
 
 .home{
 	color: red;
+	box-shadow: 0 12 17 white;
 }
 
 .news{        
 	color: white;
+	box-shadow: 0 12 17 white;
 }
                   /*  end hat  */
 
